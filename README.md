@@ -1,6 +1,6 @@
 # Contextual-Word-Forecasting-using-LSTM
 
-# Project Summary:
+### Project Summary:
 
 In this project, I developed a Next Word Prediction model using Long Short-Term Memory (LSTM) neural networks. The dataset used for training the model consisted of text data extracted from a text file containing information about visits by Prime Ministers to the United States.
 
